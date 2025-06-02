@@ -1,7 +1,5 @@
 # base64converter
-
-## Overview
-`Base64Convert.ps1` is a PowerShell script designed to encode and decode data using Base64 encoding. 
+a PowerShell script to encode and decode data using Base64 encoding. 
 It provides a simple way to convert text or files into Base64 format and decode Base64-encoded data back into its original form.
 
 ## Features
